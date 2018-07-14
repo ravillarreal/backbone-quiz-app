@@ -1,0 +1,163 @@
+{
+	"history": [{
+			"question": "¿Quién descubrió Machu Picchu?",
+			"answers": ["Hiram Bingham", "Agustín Lizárraga", "Napoleón Bonaparte", "Edward Harris"],
+			"correct_answer": 1
+		},
+		{
+			"question": "¿Quién fue el nazi conocido como \"Caracortada\"?",
+			"answers": ["Otto Rolf Skorzeny", "Adolf Hitler", "Hans Wolfenstein", "Han Solo"],
+			"correct_answer": 0
+		},
+		{
+			"question": "¿Quién fue el primer emperador romano?",
+			"answers": ["Julio César", "Calígula", "Nerón", "César Augusto"],
+			"correct_answer": 3
+		},
+		{
+			"question": "¿Por qué condenó la Iglesia a Galileo Galilei?",
+			"answers": ["Por negar la existencia de Dios", "Por decir que la tierra giraba alrededor del sol", "Por decir que la tierra era el centro del universo", "Por decir que la tierra era redonda"],
+			"correct_answer": 1
+		},
+		{
+			"question": "¿Cuál de estas no es una de las 7 maravillas del mundo antiguo?",
+			"answers": ["Templo de Artemisa", "Partenon", "Gran Pirámide de Guiza", "Jardines colgantes de Babilonia"],
+			"correct_answer": 1
+		},
+		{
+			"question": "¿En qué año cayó el Imperio Romano de Occidente?",
+			"answers": ["476", "501", "496", "456"],
+			"correct_answer": 0
+		},
+		{
+			"question": "¿Quién ha sido el mayor asesino de la historia reciente?",
+			"answers": ["Harold Shipman", "Jack el destripador", "El Vampiro de Brooklyn", "Jhon Wayne Gacy Jr"],
+			"correct_answer": 0
+		},
+		{
+			"question": "¿Cuál fue el detonante de la primera Guerra Mundial?",
+			"answers": ["El asesinato del archiduque Francisco Fernando", "La competencia entre las Naciones Aliadas y las Potencias Centrales", "El conflicto de Japón y Estados Unidos", "La invasión Nazi en Europa"],
+			"correct_answer": 1
+		},
+		{
+			"question": "¿Quién fue Martin Lutherking?",
+			"answers": ["Filósofo Estadounidense", "Actor de cine", "Luchador por los derechos civiles afroamericanos", "Escritor de Ciencia Ficción"],
+			"correct_answer": 2
+		},
+		{
+			"question": "",
+			"answers": [],
+			"correct_answer": 0
+		}
+
+	],
+
+	"entertainment": [{
+			"question": "¿Cuál de los siguientes es el vocalista de U2?",
+			"answers": ["Bono", "Ricky Martin", "Zayn Malik", "B.o.B."],
+			"correct_answer": 0
+		},
+		{
+			"question": "¿Cuál de estas películas fue dirigida por Tim Burton?",
+			"answers": ["Fantastic Mr. Fox", "Nightmare Before Christmas", "Cómo Entrenar a tu dragón", "Pollitos en Fuga"],
+			"correct_answer": 1
+		},
+		{
+			"question": "¿Cuál es el nombre del protagonista del libro 'Hitchhiker's Guide to the Galaxy'?",
+			"answers": ["Brian Green", "Garfield", "Gregory House", "Arthur Dent"],
+			"correct_answer": 3
+		},
+		{
+			"question": "¿Qué actor habló sobre la existencia de los Illuminatis?",
+			"answers": ["The Rock", "Tom Hanks", "Steve Carrell", "Jim Carrey"],
+			"correct_answer": 3
+		},
+		{
+			"question": "¿Quién dirigió la Película 'Psicosis'?",
+			"answers": ["James Cameron", "Alfred Hitchcock", "Stanley Kubrick", "Michael Bay"],
+			"correct_answer": 1
+		},
+		{
+			"question": "¿De qué serie es la mítica frase 'Say my name'?",
+			"answers": ["Bates Motel", "Breaking Bad", "Dr. House", "Friends"],
+			"correct_answer": 1
+		},
+		{
+			"question": "¿Quién dirigió 'La Naranja Mecánica'?",
+			"answers": ["Stanley Kubrick", "Quentin Tarantino", "Tim Burton", "Adam Sandler"],
+			"correct_answer": 0
+		}
+	],
+	"science": [{
+			"question": "¿Cuál de los siguientes no es un metal?",
+			"answers": ["Cobre", "Mercurio", "Helio", "Oro"],
+			"correct_answer": 2
+		},
+		{
+			"question": "¿Cuál de las siguientes es una característica de las partículas elementales?",
+			"answers": ["Portabilidad", "Resolución 4K", "Decoherencia", "Multiformato"],
+			"correct_answer": 2
+		},
+		{
+			"question": "¿Cuál es la ley que se aplica a los transistores?",
+			"answers": ["Ley de Moore", "Ley de Murphy", "Ley de Protección al Menor", "Ley N°2 del Póker"],
+			"correct_answer": 0
+		},
+		{
+			"question": "¿Cómo se llama el reino de los hongos?",
+			"answers": ["Animalia", "Vegetal", "Fungi", "Monera"],
+			"correct_answer": 2
+		},
+		{
+			"question": "¿Cuál es la ecuación que determina las posibilidades de que exista vida extraterrestre?",
+			"answers": ["Ecuación de Drake", "E = mc²", "Ecuación de Schrödinger", "Teorema de Pitágoras"],
+			"correct_answer": 0
+		},
+		{
+			"question": "¿Cuál de los siguientes filósofos cambió el concepto de los grupos numéricos?",
+			"answers": ["Sócrates", "Bertrand Russel", "Friedrich Nietszche", "Immanuel Kant"],
+			"correct_answer": 0
+		},
+		{
+			"question": "¿Quién es considerada la madre de las matemáticas?",
+			"answers": ["Hipatía de Alejandría", "Susan Cain", "Marie Curie", "Michelle Obama"],
+			"correct_answer": 0
+		}
+	],
+	"art": [{
+			"question": "¿Quién esquematizó al Hombre de Vitrubio?",
+			"answers": ["Leonardo Da Vinci", "Karl Marx", "Marco Polo", "Miguel Ángel"],
+			"correct_answer": 0
+		},
+		{
+			"question": "¿En las ideas de quién se basaba el ramismo",
+			"answers": ["Martín Lutero", "Simón Rodríguez", "Ramón Llull", "Ramón Valdéz"],
+			"correct_answer": 2
+		},
+		{
+			"question": "¿A quién se le considera el 'Padre del Hip Hop?",
+			"answers": ["2pac Shakur", "Cool Herc", "Eminem", "Nach"],
+			"correct_answer": 1
+		},
+		{
+			"question": "Quién compuso 'Toccata in D Minor'",
+			"answers": ["Bach", "Beethoven", "Mozart", "Zalnieri"],
+			"correct_answer": 0
+		},
+		{
+			"question": "¿Quién compuso el tema 'Beat It'?",
+			"answers": ["2pac Shakur", "Elvis Presley", "Eminem", "Michael Jackson"],
+			"correct_answer": 3
+		},
+		{
+			"question": "¿Quién escribió el tema 'Efectos Vocales'?",
+			"answers": ["2pac Shakur", "Cool Herc", "Eminem", "Nach"],
+			"correct_answer": 1
+		},
+		{
+			"question": "¿Cuál de las siguientes es considerada película de culto?",
+			"answers": ["The Room", "Fast & Furious", "Transformers", "Mama"],
+			"correct_answer": 1
+		}
+	]
+}
